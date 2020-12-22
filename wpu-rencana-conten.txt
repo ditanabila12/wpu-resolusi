@@ -1,6 +1,6 @@
 RENCANA KONTEN WPU
 
--Javascrip
+-Javascript
  * ES6
  * Framework Javascrip
   ^ Vue
@@ -9,4 +9,5 @@ RENCANA KONTEN WPU
 -PHP Frameworks
  ^ Laravel
 -Interview
--vlog
+-Vlog
+-Python
